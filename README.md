@@ -37,3 +37,7 @@ This project demonstrates how to transform Microsoft 365 SharePoint/OneDrive int
 - Reduced dependency on local servers.
 - Improved reliability and collaboration.
 - Demonstrates practical use of Microsoft 365 for small-to-medium businesses.
+
+
+<img width="471" height="405" alt="Architecture Diagram drawio" src="https://github.com/user-attachments/assets/6c5d4b2a-a020-4871-bbbe-f8bda058efc3" />
+
